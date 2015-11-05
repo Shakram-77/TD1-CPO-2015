@@ -10,6 +10,6 @@ public class Main {
        //Banque banque = new Banque("La Banque Postale");
 
         FichierUtilisateurs fichierUtilisateurs = new FichierUtilisateurs();
-        fichierUtilisateurs.modiferFichierClient();
+        //fichierUtilisateurs.modiferFichierClient();
     }
 }
